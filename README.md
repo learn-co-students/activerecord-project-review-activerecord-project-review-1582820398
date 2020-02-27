@@ -1,4 +1,4 @@
-# MOD 1 ActiveRecord Code Challenge
+# MOD 1 ActiveRecord Project Review Challenge
 
 To Start:
  - run `bundle install`
@@ -78,4 +78,3 @@ Passenger:
 Ticket:
 - belongs to a Passenger
 - belongs to a Flight# Mod1-ActiveRecord-Project-Review
-# Mod1-ActiveRecord-Project-Review
