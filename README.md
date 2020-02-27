@@ -75,4 +75,4 @@ Passenger:
 
 Ticket:
 - belongs to a Passenger
-- belongs to a Flight# Mod1-ActiveRecord-Project-Review
+- belongs to a Flight
